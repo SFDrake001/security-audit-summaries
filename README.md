@@ -10,6 +10,14 @@ My approach combines hands-on technical investigation with AI-assisted research,
 
 This repository serves as a public record of security assessments conducted with authorization from software owners and maintainers.
 
+## Published Security Assessments
+
+| Software / official project | Maintainer | Our assessment | Outcome |
+| --- | --- | --- | --- |
+| [InformationBox (EvotecIT)](https://github.com/EvotecIT/InformationBox) | [Przemysław Kłys](https://github.com/PrzemyslawKlys) | [InformationBox Security Assessment – September 2026](assessments/informationbox/2026-09-security-assessment.md) | 2 medium-severity vulnerabilities and 2 additional issues remediated; independent retest completed September 30, 2026 |
+
+Each assessment has its own Markdown page. Published summaries focus on verified findings, the maintainer's response, and the outcome of remediation and retesting.
+
 ## What You'll Find Here
 
 The focus is on concise, publicly shareable summaries of security assessments, including:
