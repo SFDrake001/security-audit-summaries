@@ -1,14 +1,14 @@
 # Security Audit Summaries
 
-**Independent Security Research | Focused Security Assessments | Responsible Disclosure**
+**Independent Security Research | Vulnerability Research | Responsible Disclosure**
 
 ## About
 
-I'm **SFDrake001**, an independent security researcher with an interest in software security, vulnerability research, and practical security testing.
+I'm **Andrzej Similski (@SFDrake001)**, an independent security researcher focused on practical software security, vulnerability research, and responsible disclosure.
 
-My approach combines hands-on technical investigation with AI-assisted research, analysis, and reporting.
+My work focuses on identifying real security-boundary failures, especially in desktop applications: cross-user trust boundaries, privileged configuration, IPC, services, update paths, executable resolution, and other places where lower-privileged input may influence higher-privileged or cross-user behavior.
 
-This repository serves as a public record of independent security research and security assessments performed within clearly defined and permitted boundaries.
+This repository is a public record of verified security research and focused security assessments performed within clearly defined and permitted boundaries.
 
 ## Published Security Assessments
 
@@ -21,16 +21,14 @@ This repository serves as a public record of independent security research and s
 
 Each assessment has its own Markdown page. Published summaries focus on verified findings, the maintainer's response, and the outcome of remediation and retesting where applicable.
 
-## What You'll Find Here
+## Research Principles
 
-The focus is on concise, publicly shareable summaries of security assessments, including:
-
-- Assessment scope and methodology
-- Security observations and verified findings
-- Testing outcomes and relevant technical context
-- Recommendations and lessons learned
-
-The goal is to document real security research clearly, accurately, and without unnecessary complexity.
+- Evidence over assumptions.
+- Focus on trust boundaries and concrete attacker capabilities.
+- Distinguish vulnerabilities from hardening and functional issues.
+- Use controlled systems, synthetic data, and minimal-impact proofs of concept.
+- Report privately before publishing unresolved security issues.
+- Retest the underlying security boundary after remediation.
 
 ## Responsible Disclosure
 
