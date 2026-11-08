@@ -1,8 +1,12 @@
-# Security Audit Summaries
+# Bashirra Security Research — Public Audit Summaries
+
+[**bashirra.com**](https://bashirra.com/) · [Research archive](https://bashirra.com/research/) · [Security assessments](https://bashirra.com/services/) · [Coordinated disclosure](https://bashirra.com/disclosure/)
 
 **Independent Security Research | Vulnerability Research | Responsible Disclosure**
 
 ## About
+
+This repository is the public evidence companion to [Bashirra](https://bashirra.com/), an independent application security research and assessment practice.
 
 I'm **Andrzej Similski (@SFDrake001)**, an independent security researcher focused on practical software security, vulnerability research, and responsible disclosure.
 
